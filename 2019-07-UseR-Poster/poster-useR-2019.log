@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  10 JUL 2019 13:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.5)  10 JUL 2019 15:21
 entering extended mode
 **./poster-useR-2019.tex
 (poster-useR-2019.tex
@@ -677,16 +677,23 @@ Overfull \hbox (25.00003pt too wide) in paragraph at lines 6--7
  [] 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 11.
+)
+Overfull \hbox (11.69089pt too wide) in paragraph at lines 29--30
+[][][][] 
+ []
+
+(sectionsUseR/availability.tex
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 3.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 11--13
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 \OT1/pcr/m/n/35.83 https : / / github . com / pcastellanoescuder /
  []
 
 )
-Overfull \hbox (11.69089pt too wide) in paragraph at lines 29--30
+Overfull \hbox (11.69089pt too wide) in paragraph at lines 32--33
 [][][][] 
  []
 
@@ -699,7 +706,7 @@ Package pdftex.def Info: ./images/appUsageHorizontal.png  used on input line 4.
 Package pdftex.def Info: Requested size: 1037.95662pt x 169.5484pt on input lin
 e 4.
 )
-Overfull \hbox (11.69089pt too wide) in paragraph at lines 32--33
+Overfull \hbox (11.69089pt too wide) in paragraph at lines 36--37
 [][][][] 
  []
 
@@ -712,7 +719,7 @@ nput line 4.
 Package pdftex.def Info: Requested size: 518.9783pt x 343.90822pt on input line
  4.
 )
-Overfull \hbox (11.69089pt too wide) in paragraph at lines 36--37
+Overfull \hbox (11.69089pt too wide) in paragraph at lines 40--41
 [][][][] 
  []
 
@@ -725,17 +732,17 @@ Package pdftex.def Info: ./images/interface.png  used on input line 4. on input
 Package pdftex.def Info: Requested size: 1037.95662pt x 1323.40877pt on input l
 ine 4.
 )
-Overfull \hbox (11.69089pt too wide) in paragraph at lines 40--41
+Overfull \hbox (11.69089pt too wide) in paragraph at lines 44--45
 [][][][] 
  []
 
 (sectionsUseR/biblio.tex) (sectionsUseR/footer.tex)
-Overfull \hbox (23.91498pt too wide) in paragraph at lines 13--61
+Overfull \hbox (23.91498pt too wide) in paragraph at lines 13--65
 [][][][][][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--61
+Underfull \hbox (badness 10000) in paragraph at lines 13--65
 
  []
 
@@ -757,10 +764,10 @@ LaTeX Font Warning: Size substitutions with differences
 ### simple group (level 1) entered at line 8 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3117 strings out of 493312
- 44694 string characters out of 3138900
- 128924 words of memory out of 3000000
- 6552 multiletter control sequences out of 15000+200000
+ 3124 strings out of 493312
+ 44903 string characters out of 3138900
+ 131072 words of memory out of 3000000
+ 6556 multiletter control sequences out of 15000+200000
  24560 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,7n,28p,347b,1257s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -772,7 +779,7 @@ nts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/t
 imes/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on poster-useR-2019.pdf (1 page, 743810 bytes).
+Output written on poster-useR-2019.pdf (1 page, 744440 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
