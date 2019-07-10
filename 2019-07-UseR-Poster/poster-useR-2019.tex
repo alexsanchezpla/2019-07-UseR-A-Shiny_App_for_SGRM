@@ -7,7 +7,7 @@
 \usepackage{theorem}
 {\theorembodyfont{\rmfamily}%
 %\newtheorem{ejemplo}{Ejemplo}[section]}
-%\usepackage{Sweave}
+\usepackage{url}
 
 \begin{document}
 
@@ -21,33 +21,29 @@
 
 \begin{multicols}{2}
 
-\fcolorbox{black}{white}{\parbox{1.0\columnwidth}
+\fcolorbox{black}{backyellow}{\parbox{1.0\columnwidth}
 {\input{sectionsUseR/intro}}}
+
 
 \fcolorbox{black}{backblue}{\parbox{1.0\columnwidth}
 	{\input{sectionsUseR/results}}}
 
-%\fcolorbox{black}{backblue}{\parbox{1.0\columnwidth}
-%	{\input{sectionsUseR/methods3}}}
-
-\fcolorbox{black}{backgrey}{\parbox{1.0\columnwidth}
-{\input{sectionsUseR/objectives}}}
+\fcolorbox{black}{white}{\parbox{1.0\columnwidth}
+	{\input{sectionsUseR/appusage}}}
 
 \vspace{0.1cm} 
 \fcolorbox{black}{backgrey}{\parbox{1.0\columnwidth}
-{\input{sectionsUseR/methods1}}}
+{\input{sectionsUseR/architecture}}}
+
+%\vspace{0.6cm} 
+\fcolorbox{black}{backgrey}{\parbox{1.0\columnwidth}
+	{\input{sectionsUseR/interface}}}
 
 %\vspace{0.6cm} 
 %\fcolorbox{black}{backgrey}{\parbox{1.0\columnwidth}
 %{\input{sectionsUseR/methods1b}}}
 
-%\vspace{0.6cm} 
-\fcolorbox{black}{backgrey}{\parbox{1.0\columnwidth}
-{\input{sectionsUseR/methods2}}}
 
-% \vspace{0.6cm}
-\fcolorbox{black}{backyellow}{\parbox{1.0\columnwidth}
-{\input{sectionsUseR/results}}}
 
 %\vspace{1cm} \fcolorbox{black}{white}{\parbox{1.0\columnwidth}
 %{\input{sectionsUseR/conc}}}
